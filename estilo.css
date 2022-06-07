@@ -1,0 +1,31 @@
+.modelo{
+    text-align: center;
+    font-style: italic;
+    text-decoration-color: rgb(23, 26, 230);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    background-color: yellow
+}
+
+.img{
+    width: 400px;
+    height:300px;
+    align-content: center;
+}
+
+.botao {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 15px;
+    height: 48px;
+    min-width: 75px;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .botao:hover {
+    background-color: #ccc;
+    color: black;
+  }
+
